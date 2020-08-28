@@ -54,12 +54,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MohammadLotfol1
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=NXhouUcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/m0hammadl
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mlotfollahi/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=NXhouUcAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -89,7 +92,7 @@ called  <a href="https://github.com/theislab/scarches">scArches</a> leveraging t
 
 
 Apart from academic research, I performed consulting for drug discovery companies such as <a href="https://cellarity.com/">Cellarity</a>.
-I am also collaborating with <a href="https://ai.facebook.com/">Facebook AI</a> centered around machine lear for health and recently admitted to FACEBOOK AI research intern program.
+I am also collaborating with <a href="https://ai.facebook.com/">Facebook AI</a> centered around machine learning for health and recently admitted to FACEBOOK AI research intern program.
 
 
 Before starting my PhD, As a part of my master thesis thesis, I developed 
