@@ -32,7 +32,7 @@ image:
 projects: []
 ---
 
-I am happy to anound or paper titled [**CONDITIONAL OUT-OF-DISTRIBUTION GENERATION FOR UN-PAIRED DATA USING TRVAE**](https://github.com/theislab/trVAE) is accepted
+I am happy to announce or paper titled [**CONDITIONAL OUT-OF-DISTRIBUTION GENERATION FOR UN-PAIRED DATA USING TRVAE**](https://github.com/theislab/trVAE) is accepted
 as a highlight talk at [EECB 2020](https://eccb2020.info/) (accept rate 20.19%). The paper will also be
 published as a journal article in [Bioinfomatics](https://academic.oup.com/bioinformatics). My talk will be on Tuesday, September 8, 2020.
 Looking forward to meet everyone :).

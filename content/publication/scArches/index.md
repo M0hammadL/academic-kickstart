@@ -26,7 +26,7 @@ tags:
 featured: true
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.07.16.205997v1/'
 url_code: 'https://github.com/theislab/scarches'
 
 # Featured image

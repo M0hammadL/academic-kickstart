@@ -22,7 +22,7 @@ organizations:
     
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I love combining AI and biology!
 
 interests:
 - Machine learning
