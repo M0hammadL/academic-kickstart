@@ -1,6 +1,5 @@
 ---
-title: "Multigrate: single-cell multi-omic data integration
-"
+title: "Multigrate: single-cell multi-omic data integration"
 authors:
 - Lotfollahi et al.
 date: "2021-09-16"

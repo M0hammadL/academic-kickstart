@@ -1,6 +1,5 @@
 ---
-title: "Jointly learning T-cell receptor and transcriptomic information to decipher the immune response
-"
+title: "Jointly learning T-cell receptor and transcriptomic information to decipher the immune response"
 authors:
 - Yang et al.
 date: "2021-07-16"
