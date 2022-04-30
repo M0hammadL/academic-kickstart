@@ -25,7 +25,7 @@ organizations:
 bio: I love combining AI and biology!
 
 interests:
--  Computational Biology
+- Computational Biology
 - Drug discovery and design 
 
 
