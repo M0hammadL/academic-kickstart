@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammad Lotfollahi
+title: Mo Lotfollahi
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate
+role: Postdoctoral researcher
 
 
 # Organizations/Affiliations
@@ -25,7 +25,7 @@ organizations:
 bio: I love combining AI and biology!
 
 interests:
-- Computational biology and AI 
+-  Computational Biology
 - Drug discovery and design 
 
 
@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Computational Biology
     institution: Technical University of Munich
-    year: 2021
+    year: 2022
 
   - course: MSc in Artificial Intelligence
     institution: Computer Engineering Department, Sharif university of Technology
@@ -78,31 +78,18 @@ user_groups:
 - Visitors
 ---
 
-I occasionally update here every few months or so. If you want to follow latest news and research, please check my
- <a href="https://twitter.com/MohammadLotfol1">Twitter</a> account.
 
 
-I am a fourth year PhD candidate (will finish soon!) in computational biology at <a href="https://www.wzw.tum.de/index.php?id=2&L=1">School of Life Sciences</a> in
+I have recently finished my PhD in Computational Biology (summa cum laude) at <a href="https://www.wzw.tum.de/index.php?id=2&L=1">School of Life Sciences</a> in
 <a href="https://www.tum.de/en/">Technical University of Munich (TUM)</a> under supervision of <a href="https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html">Fabian Theis</a>.
-My PhD is focused on developing machine learning algorithm to analyze single-cell genomics data.
  
-My main focus is leveraging single-cell technology and machine learning for  and drug discovery. In the first year of my PhD, I developed 
-<a href="https://github.com/theislab/scgen">scGen</a> a tool to analyze and  predict the effect of a perturbation (i.e drug, disease) at single-cell
-resolution. To learn more about the the model, you can check our paper in <a href="https://www.nature.com/articles/s41592-019-0494-8">Nature Methods</a> 
-and media coverage in  <a href="https://www.tum.de/nc/en/about-tum/news/press-releases/details/35624/">TUM</a> website. I am also a huge advocate of using ML to facilitate single-cell analysis for every one,
- regardless of their stat or ML knowledge. I developed a model 
-called  <a href="https://github.com/theislab/scarches">scArches</a> leveraging transfer and life-long learning update multi-modal single-cell atlases with new query datasets. This started a research
-direction in single-cell computational field called "reference mapping" which is  an active area of research.
+I am interested intersection of AI and Biology and specifically leveraging single-cell technology for 
+therapeutic applications and drug discovery. Check my <a href="https://scholar.google.de/citations?user=NXhouUcAAAAJ&hl=en">Google Scholar</a> and  <a href="https://twitter.com/MohammadLotfol1">Twitter</a> account for
+latest update.
 
 
-Apart from academic research, I worked with drug discovery companies such as <a href="https://cellarity.com/">Cellarity</a>.
-I am also collaborating with <a href="https://ai.facebook.com/">Facebook AI</a> centered around machine learning for health and recently admitted to FACEBOOK AI research intern program.
+I also have industry experience as research intern and consultant in both drug discovery companies and machine learning research such as <a href="https://cellarity.com/">Cellarity</a> and <a href="https://ai.facebook.com/">Facebook AI</a>.  
 
-
-Before starting my PhD, As a part of my master thesis thesis, I developed 
- <a href="shorturl.at/kCSZ4">Deep packet</a>, the first end-to-end model to
-replace classical rule based approaches for traffic classification. The model was favoured by
-The research community and has been cited nearly 400 times since 2019!
 
 
 
