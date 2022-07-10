@@ -22,10 +22,11 @@ organizations:
     
 
 # Short bio (displayed in user profile at end of posts)
-bio: I love combining AI and biology!
+bio: 
 
 interests:
-- Computational Biology
+- Single-cell genomics
+- Machine learning
 - Drug discovery and design 
 
 
@@ -52,7 +53,7 @@ social:
   link: mailto:mohammad.lotfollahi@helmholtz-muenchen.de
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MohammadLotfol1
+  link: https://twitter.com/Mohlotf
 - icon: github
   icon_pack: fab
   link: https://github.com/m0hammadl
@@ -83,8 +84,10 @@ user_groups:
 I have recently finished my PhD in Computational Biology (summa cum laude) at <a href="https://www.wzw.tum.de/index.php?id=2&L=1">School of Life Sciences</a> in
 <a href="https://www.tum.de/en/">Technical University of Munich (TUM)</a> under supervision of <a href="https://www.helmholtz-muenchen.de/icb/institute/staff/staff/ma/2494/index.html">Fabian Theis</a>.
  
-I am interested intersection of AI and Biology and specifically leveraging single-cell technology for 
-therapeutic applications and drug discovery. Check my <a href="https://scholar.google.de/citations?user=NXhouUcAAAAJ&hl=en">Google Scholar</a> and  <a href="https://twitter.com/MohammadLotfol1">Twitter</a> account for
+ 
+
+
+I am working in the intersection of machine learning (ML) and Biology. I leverage ML to understand health and disease using single-cell biology for drug discovery and cell engineering. Check my <a href="https://scholar.google.de/citations?user=NXhouUcAAAAJ&hl=en">Google Scholar</a> and  <a href="https://twitter.com/MohammadLotfol1">Twitter</a> account for
 latest update.
 
 
