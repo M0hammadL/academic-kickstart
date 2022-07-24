@@ -87,7 +87,7 @@ I have recently finished my PhD in Computational Biology (summa cum laude) at <a
  
 
 
-I am working in the intersection of machine learning (ML) and Biology. I leverage ML to understand health and disease using single-cell biology for drug discovery and cell engineering. Check my <a href="https://scholar.google.de/citations?user=NXhouUcAAAAJ&hl=en">Google Scholar</a> and  <a href="https://twitter.com/MohammadLotfol1">Twitter</a> account for
+I am working in the intersection of machine learning (ML) and Biology. I leverage ML to understand health and disease using single-cell biology for drug discovery and cell engineering. Check my <a href="https://scholar.google.de/citations?user=NXhouUcAAAAJ&hl=en">Google Scholar</a> and  <a href="https://twitter.com/Mohlotf">Twitter</a> account for
 latest update.
 
 
