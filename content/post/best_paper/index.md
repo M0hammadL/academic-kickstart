@@ -37,10 +37,8 @@ from [MDSI](https://www.mdsi.tum.de/en/mdsi/latest-info/news/full-text/article/a
 This was among the work done during my doctoral studies at
 Helmholtz Munich and Life science school at TUM.
 
-
-
 Read the paper [here](https://www.nature.com/articles/s41587-021-01001-7). 
 
-The code can also be found in [github](https://github.com/theislab/scarches).
+The code can also be found at [github](https://github.com/theislab/scarches).
 
 

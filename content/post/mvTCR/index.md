@@ -33,7 +33,7 @@ projects: []
 Proud to present mvTCR, integrating T-cell receptor sequences (α/β chain learned via transformers) and phenotype (scRNA-seq)  jointly measured (e.g., Immune Profiling 
 ) to assemble (and continually update) multi-omic T-cell atlases.
 
-For a short read my tweetorial here [https://twitter.com/Mohlotf/status/1585704556809396225]. 
+For a short read my tweetorial [here](https://twitter.com/Mohlotf/status/1585704556809396225). 
 
 
 The preprint is available on [biorxiv](https://www.biorxiv.org/content/10.1101/2021.06.24.449733v2?rss=1). 
