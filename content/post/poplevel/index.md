@@ -31,6 +31,6 @@ projects: []
 ---
 
 
-Excited to share our new work [Population-level integration of single-cell datasets enables multi-scale analysis across samples](https://t.co/I4hqJgUTEC) 
-. We present scPoli to learn representation for cell types and samples that can be updated with new cells and samples. Please 
+I am excited to share our new work [Population-level integration of single-cell datasets enables multi-scale analysis across samples](https://t.co/I4hqJgUTEC) 
+. We present (single-cell population level integration) scPoli to learn representation for cell types and samples that can be updated with new cells and samples. Please 
 read the [tweetorial](https://twitter.com/Mohlotf/status/1597663171875319809) for full details.
